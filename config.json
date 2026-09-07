@@ -1,0 +1,42 @@
+{
+  "app": {
+    "name": "CHEOS WEBUI",
+    "version": "1.1",
+    "announcement": "Selamat datang di CHEOS STORE.",
+    "telegram": "",
+    "youtube": "",
+    "tiktok": ""
+  },
+  "menus": [
+    {
+      "id": "drone-free",
+      "name": "TOOLS DRONE FREE",
+      "version": "v1.0",
+      "description": "Tools versi free.",
+      "size": "—",
+      "download": "https://example.com/drone-free.zip",
+      "icon": "🛰️",
+      "access": "FREE",
+      "enabled": true
+    },
+    {
+      "id": "drone-vip",
+      "name": "TOOLS DRONE VIP",
+      "version": "v1.0",
+      "description": "Tools khusus member VIP.",
+      "size": "—",
+      "download": "https://example.com/drone-vip.zip",
+      "icon": "👑",
+      "access": "VIP",
+      "enabled": true
+    }
+  ],
+  "users": [
+    {
+      "key": "DEMO-VIP-2026",
+      "name": "Demo VIP",
+      "expires": "2099-12-31",
+      "active": true
+    }
+  ]
+}
