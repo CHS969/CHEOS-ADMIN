@@ -12,7 +12,7 @@
       "id": "drone-free",
       "name": "TOOLS DRONE FREE",
       "version": "v1.0",
-      "description": "Tools versi free.",
+      "description": "Tools DRONE FREE",
       "size": "—",
       "download": "https://sfl.gl/ToolsDroneAdvancePlesOriServer",
       "icon": "🛰️",
@@ -23,9 +23,9 @@
       "id": "drone-vip",
       "name": "TOOLS DRONE VIP",
       "version": "v1.0",
-      "description": "Tools khusus member VIP.",
+      "description": "Tools DRONE VIP EXP 1BULAN",
       "size": "—",
-      "download": "https://example.com/drone-vip.zip",
+      "download": "https://bit.ly/4xC3GeU",
       "icon": "👑",
       "access": "VIP",
       "enabled": true
@@ -33,9 +33,9 @@
   ],
   "users": [
     {
-      "key": "DEMO-VIP-2026",
+      "key": "VIP-2026",
       "name": "Demo VIP",
-      "expires": "2099-12-31",
+      "expires": "2026-10-08",
       "active": true
     }
   ]
